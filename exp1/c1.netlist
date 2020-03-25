@@ -1,0 +1,11 @@
+.circuit
+R... n1 n2 value
+E... n1 n2 n3 n4 value
+.end
+
+fuck you
+
+.circuit
+P... n1 n2 value
+Q... n1 n7 8n3 n94 value
+.end
