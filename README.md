@@ -1,5 +1,7 @@
 # EE2703_Applied_Programming_Lab
+
 Contains course content, problem sets and solutions for the course EE2703 conducted during the spring of 2020 at IIT Madras. This course was taught by Prof. Harishankar Ramachandran. 
+
 ---
 ### How to make a copy of this repo in your local machine? - For Noobs
 
